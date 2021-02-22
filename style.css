@@ -1,0 +1,27 @@
+
+  body{
+    background-color:powderblue;
+  }
+  hr{
+
+    border-style:none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    width: 5%;
+  }
+  body{
+    background-image: linear-gradient(hsla(300, 100%, 70%, .5) ,#b0e0e6);
+    box-shadow: 10px 5px 5px black;
+  }
+  img{
+    box-shadow: 10px 5px 5px black;
+  }
+table{
+  box-shadow: 10px 5px 5px grey;
+}
+/*
+.circular{
+  border-radius: 100%;
+}
+*/
